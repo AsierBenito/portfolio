@@ -1,0 +1,5 @@
+print("  A A   BBBB   ")
+print(" A   A  B   B  ")
+print(" AAAAA  BBBB   ")
+print(" A   A  B   B  ")
+print(" A   A  BBBB   ")
