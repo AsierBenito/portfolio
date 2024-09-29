@@ -2,6 +2,7 @@ import random
 
 name = "Asier"
 question = "Will I ever master python?"
+answer = ""
 
 random_number = random.randint(1, 9)
 
